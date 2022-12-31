@@ -4,3 +4,6 @@ Try to collect stars as much as you can. Be careful! Walls spawn here from time 
 Also you have an account-control system, which saves your progress
 -----------------------
 This project is an attempt to learn modular programming in Pascal, don't take it seriously :)
+-----------------------
+To compile project start "fpc RunningGame.pas" (free-pascal compiler required)
+To start the game: "./RunningGame"
